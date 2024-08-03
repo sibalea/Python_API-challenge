@@ -1,6 +1,11 @@
-# Adding config.py file.
+# Ignore the api_keys.py file
 api_keys.py
-*api_keys*
+api_keys*
 api*
 api_key*
+api_keys/
+api/
+**/api_key*
+
+# Ignore all hidden files
 .*/
