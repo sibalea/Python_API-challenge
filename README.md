@@ -2,7 +2,7 @@
 Module 6 assignment
 Chatgpt.com; stackoverflow; OpenweatherMap API, Geoapify documentation were used to complete the project.
 
-Adding Module4 assignment done with the expertise of [@rosericazondekon](https://github.com/rosericazondekon).
+Adding Module 6 assignment done with the expertise of [@rosericazondekon](https://github.com/rosericazondekon).
 
 Main Scripts:
 1. `WeatherPy.ipynb`
