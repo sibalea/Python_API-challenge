@@ -5,5 +5,5 @@ Chatgpt.com; stackoverflow; OpenweatherMap API, Geoapify documentation were used
 Adding Module4 assignment done with the expertise of [@rosericazondekon](https://github.com/rosericazondekon).
 
 Main Scripts:
-    1. `WeatherPy.ipynb`
-    2. `VacationPy.ipynb`
+1. `WeatherPy.ipynb`
+2. `VacationPy.ipynb`
